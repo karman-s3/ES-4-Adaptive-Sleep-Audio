@@ -1,5 +1,5 @@
 
-//Work Cited: (for beyond course concepts)
+//Work Cited: 
 //https://www.hackster.io/mertarduino/make-a-project-that-speaks-reacts-with-the-arduino-38197b
 //https://docs.arduino.cc/libraries/sd/
 //https://github.com/TMRh20/TMRpcm
